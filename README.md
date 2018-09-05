@@ -1,4 +1,3 @@
-#
 
 # Data visualization - Τελική Αναφορά
 
